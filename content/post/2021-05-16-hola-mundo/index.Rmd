@@ -1,0 +1,12 @@
+---
+title: ¡Hola Mundo!
+author: LEMendoza
+date: '2021-05-16'
+slug: hola-mundo
+categories:
+  - General
+tags:
+  - Informal
+---
+
+Bien, pues acá estamos arrancando este blog. Espero no pase lo mismo que con todos los anteriores, que solo los usé por un tiempo y los olvidé (cuestiones de trabajo, caray).
