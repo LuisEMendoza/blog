@@ -9,10 +9,18 @@ tags:
   - Formal
 ---
 
-Vengo del futuro para decirme a mí mismo que no olvide instalar TinyTex antes de renderizar los archivos del libro, pues luego solo genera salida HTML. Se consigue con
+Vengo del futuro para decirme a mí mismo que no olvide instalar TinyTex antes de renderizar los archivos del libro, pues luego solo genera salida HTML y no tendremos el PDF. Se consigue con
 
 ```{r, eval=FALSE}
 install.packages("tinytex")
 ```
 
-Sale.
+Esto para instalar el instalador, como quien dice. Pero para realmente instalar el paquete basta con ejecutar (justo enseguida):
+
+```{r, eval=FALSE}
+tinytex::install_tinytex()
+```
+
+Después de un rato ya estará el paquete instalado y ya generará archivos PDF.
+
+¡Sale!
