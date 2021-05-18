@@ -1,0 +1,18 @@
+---
+title: Vengo del futuro
+author: LEMendoza
+date: '2021-05-18'
+slug: vengo-del-futuro
+categories:
+  - Libro
+tags:
+  - Formal
+---
+
+Vengo del futuro para decirme a mí mismo que no olvide instalar TinyTex antes de renderizar los archivos del libro, pues luego solo genera salida HTML. Se consigue con
+
+```{r, eval=FALSE}
+install.packages("tinytex")
+```
+
+Sale.
