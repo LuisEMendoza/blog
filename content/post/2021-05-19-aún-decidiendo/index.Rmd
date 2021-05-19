@@ -1,0 +1,12 @@
+---
+title: Aún decidiendo
+author: LuisEMendoza
+date: '2021-05-19'
+slug: aún-decidiendo
+categories:
+  - Libro
+tags:
+  - Formal
+---
+
+Agrego a la lista de posibles temas para el libro asignaturas como Álgebra y Cálculo Diferencial...
